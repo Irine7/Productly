@@ -1,6 +1,6 @@
 .tags {
 	display: flex;
-	>* {
+	>* { // для всех прямых потомков
 		 margin-right: 7px;
 	}
 }
