@@ -30,10 +30,10 @@ const data = [
 ];
 
 window.onload = function() {
-	console.log('Hello');
+	console.log('Hello RS!');
 
 	// Render Articles
-	is (data) {
+	if (data) {
 		renderArticlesToDom();
 	}
 

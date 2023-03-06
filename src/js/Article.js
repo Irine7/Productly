@@ -38,3 +38,4 @@ generateArticle() {
 	article.innerHTML = template;
 	return article;
 }
+}
